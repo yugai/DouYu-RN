@@ -1,0 +1,36 @@
+/**
+ * Created by yugai on 17/2/12.
+ */
+export default {
+	splash: require('./resource/bg_splash.png'),
+	logo: require('./resource/logo_icon.png'),
+	tab_home_normal: require('./resource/btn_home_normal.png'),
+	tab_home_selected: require('./resource/btn_home_selected.png'),
+	tab_column_normal: require('./resource/btn_live_normal.png'),
+	tab_column_selected: require('./resource/btn_live_selected.png'),
+	tab_live_normal: require('./resource/btn_column_normal.png'),
+	tab_live_selected: require('./resource/btn_column_selected.png'),
+	tab_user_normal: require('./resource/btn_user_normal.png'),
+	tab_user_selected: require('./resource/btn_user_selected.png'),
+	nar_scan: require('./resource/image_scanner.png'),
+	nar_history: require('./resource/image_history.png'),
+	nar_search: require('./resource/image_search.png'),
+	rank: require('./resource/icon_reco_rank.png'),
+	message: require('./resource/icon_dy_message.png'),
+	all_live: require('./resource/icon_reco_all_live.png'),
+	zhibo: require('./resource/icon_column.png'),
+	info: require('./resource/image_info.png'),
+	hot: require('./resource/icon_hot.png'),
+	banner1: require('./resource/banner1.jpg'),
+	banner2: require('./resource/banner2.jpg'),
+	banner3: require('./resource/banner3.jpg'),
+	banner4: require('./resource/banner4.jpg'),
+	head: require('./resource/image_head.png'),
+	user_top: require('./resource/usercenter_top_bg_day.png'),
+	user_message: require('./resource/more_message.png'),
+	user_recharge: require('./resource/recharge_image.png'),
+	user_noble: require('./resource/icon_noble.png'),
+	setting: require('./resource/image_player_config_normal.png'),
+	yuba: require('./resource/icon_my_yuba.png'),
+	right_btn: require('./resource/icon_right_arrow_gray.png')
+}
